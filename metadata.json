@@ -1,0 +1,6 @@
+{
+  "name": "CBZ to PDF Comic Merger",
+  "description": "Convert and merge multiple CBZ comic archive files into a single professional PDF with custom ordering, page rotation, and compression settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
